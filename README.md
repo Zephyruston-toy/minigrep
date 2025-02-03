@@ -7,7 +7,7 @@ Rust 圣经学习入门实战：文件搜索工具
 ## Usage
 
 ```shell
-$ cargo run -- -p <path> -q <query>
+$ cargo run -- -f <file-path> -q <query>
 ```
 
 ## Features
